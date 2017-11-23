@@ -1,3 +1,4 @@
+# AC
 import sys
 num = list(raw_input())
 p  = num[0]

@@ -1,1 +1,2 @@
+# AC
 print "YES" if raw_input() == raw_input()[::-1] else "NO"

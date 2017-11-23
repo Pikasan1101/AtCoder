@@ -1,5 +1,5 @@
+# AC
 import heapq
-
 
 def func(start, mp):
     d = [float("inf") for i in xrange(10)]

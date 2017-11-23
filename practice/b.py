@@ -1,3 +1,4 @@
+# WA
 import sys
 chars = [chr(65+i) for i in xrange(26)]
 def func(l):

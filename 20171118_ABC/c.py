@@ -1,3 +1,4 @@
+# AC
 a, b, c, d = map(int, list(raw_input()))
 
 ppp = lambda a,b,c,d: (a+b+c+d == 7, "%d+%d+%d+%d=7" % (a,b,c,d))
