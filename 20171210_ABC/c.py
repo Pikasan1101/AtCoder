@@ -1,3 +1,4 @@
+# AC
 import collections
 n, k = map(int, raw_input().split())
 num = map(int, raw_input().split())

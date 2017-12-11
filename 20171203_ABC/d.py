@@ -1,3 +1,4 @@
+# AC
 n, c = map(int, raw_input().split())
 time_table = [list(map(int, raw_input().split())) for _ in xrange(n)]
 time_table.sort()

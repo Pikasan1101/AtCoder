@@ -1,3 +1,4 @@
+# AC
 n = input()
 s = list()
 for i in xrange(1, 2**10):

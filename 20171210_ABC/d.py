@@ -1,3 +1,4 @@
+# AC
 n = input()
 num = map(int, raw_input().split())
 ma = max(num)
